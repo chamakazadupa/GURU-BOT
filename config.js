@@ -52,8 +52,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = '꧁ ꜱʟ | 𝐂 ｚａｄｕｐａ ☛☚ ꧂3 𝛁'
 global.premium = 'true'
-global.packname = 'ᄃΉΛMΛKΛ ZΛDЦPΛ' 
-global.author = '@ᄃんﾑﾶﾑズﾑ 乙ﾑりひｱﾑ' 
+global.packname = 'ubetatta' 
+global.author = '@ubeamma' 
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BFfD1C0mTDDDfVdKPkxRAA'
